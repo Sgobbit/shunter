@@ -1,0 +1,24 @@
+{
+  "name": "shunter",
+  "version": "1.0.0",
+  "description": "Docker swarm reverse proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsultoLabs/shunter.git"
+  },
+  "author": "Sgobbi Federico",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EsultoLabs/shunter/issues"
+  },
+  "homepage": "https://github.com/EsultoLabs/shunter#readme",
+  "dependencies": {
+    "dockerode": "^3.2.0",
+    "redbird": "^0.10.0",
+    "ring-election": "^1.1.0"
+  }
+}

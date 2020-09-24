@@ -1,2 +1,2 @@
 # shunter
-Docker swarm reverse proxy.
+Docker swarm reverse proxy
